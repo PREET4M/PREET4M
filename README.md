@@ -221,25 +221,6 @@ C++ · Problem Solving · Core CS Fundamentals
 
 <br/>
 
-## 📊 A LITTLE GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PREET4M&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PREET4M&layout=compact&theme=github_dark&hide_border=true" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=PREET4M&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PREET4M&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
-<br/>
-
 ## 🎥 BEYOND DEVELOPMENT
 
 I'm also building **PreeOmen Tech** — a content brand focused on AI tools, technology and helping students become better at using AI.
