@@ -12,15 +12,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PREET4M&style=flat-square&color=238636&label=PROFILE+VISITORS" />
-
 </div>
 
 <br/>
 
 ## A LITTLE ABOUT ME
 
-Hey! I'm **Preetam** — a Computer Science engineering student at **VTU, Belagavi**, passionate about software development, AI and building products that solve actual problems.
+Hey! I'm **Preetam** — a Computer Science and Business Systems student at **VTU, Belagavi**, passionate about software development, AI and building products that solve actual problems.
 
 I like the entire process: finding a problem, exploring possible solutions, experimenting with technologies, building a prototype and presenting it to the world.
 
@@ -161,9 +159,10 @@ I enjoy the pressure of hackathons — tight deadlines, unfamiliar problem state
 
 | Event | Participation |
 |:---|:---|
-| **NASA Space Apps Challenge 2025** | Participated · Team Lead |
-| **HackHive 2K26** · AITM, Belagavi | Participant |
 | **SIH Internal Hackathon 2026** · VTU, Mysuru | 🥇 1st Place Winner · Team Viksit |
+| **NASA Space Apps Challenge 2025** | Participated · Team Lead |
+| **MSME Idea Hackathon 2026**| Participated · Team Lead |
+| **HackHive 2K26** · AITM, Belagavi | Participant |
 | **HackVerse 2026** · Innovation Hacks | Participant |
 
 <br/>
@@ -176,10 +175,8 @@ Currently involved in student technical communities at VTU.
 
 | Community | Responsibility |
 |:---|:---|
-| Google Developer Groups on Campus · VTU | **Tech Lead** |
+| Invictus Technical Club · VTU | **General Secretary** |
 | Competitive Programming Club · VTU | **Technical Division Captain** |
-| Invictus Technical Club · VTU | **Core Team Member** |
-| Invictus Technical Club · VTU | **Content & Social Media Lead** |
 
 Also interested in hackathon organization, developer engagement, technical events and creating opportunities for students to build together.
 
