@@ -186,7 +186,7 @@ Also interested in hackathon organization, developer engagement, technical event
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,git,github,vscode,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,linux&perline=7" />
 
 <br/><br/>
 
