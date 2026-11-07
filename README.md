@@ -163,6 +163,7 @@ I enjoy the pressure of hackathons — tight deadlines, unfamiliar problem state
 | **NASA Space Apps Challenge 2025** | Participated · Team Lead |
 | **MSME Idea Hackathon 2026**| Participated · Team Lead |
 | **HackHive 2K26** · AITM, Belagavi | Participant |
+| **Hacktoberfest 2026** · Dev.com | Participant |
 | **HackVerse 2026** · Innovation Hacks | Participant |
 
 <br/>
@@ -178,7 +179,7 @@ Currently involved in student technical communities at VTU.
 | Invictus Technical Club · VTU | **General Secretary** |
 | Competitive Programming Club · VTU | **Technical Division Captain** |
 
-Also interested in hackathon organization, developer engagement, technical events and creating opportunities for students to build together.
+Also interested in hackathon organization, developer engagement, technical workshops, technical events and creating opportunities for students to build together.
 
 <br/>
 
