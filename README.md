@@ -1,5 +1,160 @@
 # 💫 About Me:
-Hi there 👋, I'm Preetam<br><br>I'm a Computer Science and Business Systems student passionate about technology, software development, and artificial intelligence. I enjoy building practical applications, exploring emerging technologies, and sharing what I learn with others.<br><br>My programming journey started with C and C++, followed by Python, HTML, and CSS. I'm currently diving into Full Stack Development, with the goal of becoming a professional developer who builds impactful, user-focused applications.<br><br>🚀 Currently Learning<br><br>* 🌐 Full Stack Development<br>* ⚛️ Modern JavaScript & Web Technologies<br>* 🗄️ Backend Development & Databases<br>* ☁️ Deployment & Cloud Fundamentals<br>* 📚 Writing clean, scalable, and maintainable code<br><br>---<br><br>🛠️ Tech Stack<br><br>* C<br>* C++<br>* Python<br>* HTML<br>* CSS<br>* Git<br>* GitHub<br>* VS Code<br>* Linux (Basics)<br><br>---<br><br>📌 Featured Projects<br><br>⚖️ Pocket Lawyer<br>An AI-powered legal research platform designed to reduce legal research time by providing multiple perspectives through AI agents.<br><br>Highlights:<br>* 🤖 AI-assisted legal research<br>* ⚖️ Three AI agents: Defence Lawyer, Opponent Lawyer & Neutral Judge<br>* 📄 Faster legal analysis and pre-hearing preparation<br>* 🎯 User-friendly interface focused on accessibility<br><br>---<br><br>🚌 SureSeat<br>A subscription-based seat booking platform built for daily commuters.<br><br>Highlights:<br>* 🪑 Subscription-based booking system<br>* 👥 User-centric workflow<br>* 🚍 Designed to make daily travel more convenient<br><br>---<br><br>💡 What You'll Find Here<br><br>* AI-powered applications<br>* Learning projects and experiments<br>* Practical solutions to real-world problems<br>* Open-source contributions (coming soon)<br>* Full Stack Development projects(coming soon)<br><br>---<br><br>📈 Philosophy<br><br>> "Every repository is another step in my learning journey."<br><br>🤝 Let's Connect<br>I'm always excited to connect with fellow developers, collaborate on interesting projects, and learn from the tech community.<br><br>⭐ Thanks for stopping by ,feel free to explore my repositories!
+ <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Preetam+Malawade+%F0%9F%91%8B;Building+ideas+into+software.;Exploring+AI+%26+emerging+tech.;Learning.+Building.+Improving." alt="Typing introduction" />
+
+**Computer Science Student · Software Developer · Tech Enthusiast**
+
+[GitHub](https://github.com/PREET4M) · [Repositories](https://github.com/PREET4M?tab=repositories)
+
+<img src="https://komarev.com/ghpvc/?username=PREET4M&style=flat&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+### `$ whoami`
+
+I'm Preetam, a Computer Science student at **VTU, Belagavi**, interested in software engineering, artificial intelligence and building technology that solves real-world problems.
+
+I enjoy experimenting with ideas, building practical applications, participating in hackathons and exploring how emerging technologies can be turned into useful products.
+
+Currently focused on strengthening my engineering fundamentals while building things beyond the classroom.
+
+- 🏆 **1st Place — SIH Internal Hackathon 2026**
+- 🤖 Exploring AI applications, LLMs and multi-agent systems
+- 💻 Building full-stack and AI-powered projects
+- 🧩 Interested in problem-solving, system design and software architecture
+- 👨‍💻 Contributing to technical communities at VTU
+
+---
+
+### `$ ls ./projects`
+
+A few things I've worked on:
+
+**01. MARGA — AI-assisted Project Monitoring**
+
+An oversight platform for MPLADS-funded development projects, built to improve transparency and identify irregularities.
+
+- ML-based cost and timeline anomaly detection.
+- NLP-assisted identification of potentially banned works.
+- Graph-based project overlap detection.
+- Multi-stakeholder dashboards and offline field inspection application.
+
+<sub>🏆 1st Place — SIH Internal Hackathon 2026 · Team Viksit</sub>
+
+**02. SchemaGuard — Database Migration Risk Analyzer**
+
+A platform for analyzing database migrations and identifying potentially dangerous schema changes before deployment.
+
+- SQL migration analysis using SQLGlot.
+- Application contract validation.
+- Isolated migration rehearsal.
+- Risk assessment and visual reporting.
+
+**03. ScamShield Local — Privacy-focused Scam Detection**
+
+An AI-powered scam detection prototype using locally running language models.
+
+- Local AI inference using Ollama.
+- Scam analysis with supporting evidence.
+- Risk assessment and explainable results.
+- Designed to reduce reliance on external AI APIs.
+
+**04. Pocket Lawyer — Multi-Agent Legal Assistant**
+
+An AI-powered legal research prototype that approaches legal scenarios from three perspectives.
+
+- Defence Lawyer agent.
+- Opponent Lawyer agent.
+- Neutral Judge agent.
+- Multi-perspective legal analysis.
+
+**05. CareerPilot AI — AI Career Assistant**
+
+A career-focused application prototype with document processing capabilities.
+
+- Resume and PDF processing.
+- OCR-based information extraction.
+- React + Flask application architecture.
+
+---
+
+### `$ tech --stack`
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Development**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases, AI & Tools**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### `$ cat ./leadership.md`
+
+| Community | Role |
+|---|---|
+| Google Developer Groups on Campus · VTU | Tech Lead |
+| Competitive Programming Club · VTU | Technical Division Captain |
+| Invictus Technical Club · VTU | Core Team Member |
+| Invictus Technical Club · VTU | Content & Social Media Lead |
+
+I enjoy working with developer communities, organizing technical initiatives and creating opportunities for people to learn and build together.
+
+---
+
+### `$ git log --achievements`
+
+- 🥇 **1st Place** — SIH Internal Hackathon 2026, VTU Regional Centre, Mysuru.
+- 💻 **Participant** — HackHive, Angadi Institute of Technology and Management.
+- 🚀 Built and presented multiple AI and software prototypes through hackathon and project initiatives.
+
+---
+
+### `$ git status`
+
+Currently working on becoming a better software engineer.
+
+Learning the fundamentals, building projects, experimenting with AI and exploring technologies beyond my comfort zone.
+
+**Not here to collect technologies. Here to understand them and build with them.**
+
+---
+
+### `$ connect --with-me`
+
+If you're building something interesting, exploring AI, organizing hackathons or simply want to talk tech, let's connect.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PREET4M-181717?style=for-the-badge&logo=github)](https://github.com/PREET4M)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%" />
+
+</div>
 
 
 ## 🌐 Socials:
